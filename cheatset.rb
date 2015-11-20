@@ -1,6 +1,6 @@
 cheatsheet do
   title 'Cheatset'
-  docset_file_name 'cheatset'
+  docset_file_name 'Cheatset'
   keyword 'dash'
   source_url 'https://github.com/Kapeli/cheatset'
 
